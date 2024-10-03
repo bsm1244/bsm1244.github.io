@@ -58,7 +58,7 @@ September 2021 - June 2022
 ---
 
 ## Award
-- **2022 June**: LG Electronics Paper Award, Summer Annual Conference of IEIE 2022, Korea
+- 2022 June: **LG Electronics Paper Award, Summer Annual Conference of IEIE 2022**, Korea
 
 ---
 
