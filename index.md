@@ -4,6 +4,7 @@ title: Seungmin Baek
 ---
 
 Hi! I am a Ph.D. student at **Seoul National University** since 2023. I am currently advised by **Prof. Jung Ho Ahn** and a member of the SCALable Computer Architecture Laboratory ([SCALE Lab]).
+
 [SCALE Lab]: https://scale.snu.ac.kr/
 
 ---
