@@ -21,24 +21,28 @@ header {
     object-fit: cover;
 }
 
-.social-icons {
-    margin-top: auto;
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    background-color: #f8f8f8;
 }
 
-.social-icons a {
-    color: black;
-    margin: 0 15px;
-    font-size: 40px;
-    text-decoration: none;
-    transition: color 0.3s;
+.icons {
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
 }
 
-.social-icons a:hover {
-    color: gray; /* LinkedIn color for hover effect */
+.icon {
+    width: 60px;
+    height: 60px;
+    filter: grayscale(100%);
 }
 
-.social-icons a i {
-    vertical-align: middle;
+.icon:hover {
+    filter: none;
 }
+  
 
 

@@ -49,11 +49,11 @@ September 2021 - June 2022
 
 ### ISCA '24
 - DRAMScope: Uncovering DRAM Microarchitecture and Characteristics by Issuing Memory Commands
-- Hwayong Nam, **Seungmin Baek**, Minbok Wi, Michael Jaemin Kim, Jaehyun Park, Chihun Song, Nam Sung Kim, Jung Ho Ahn
+  - Hwayong Nam, **Seungmin Baek**, Minbok Wi, Michael Jaemin Kim, Jaehyun Park, Chihun Song, Nam Sung Kim, Jung Ho Ahn
 
 ### IEEE CAL '23
 - X-ray: Discovering DRAM Internal Structure and Error Characteristics by Issuing Memory Commands
-- Hwayong Nam, **Seungmin Baek**, Minbok Wi, Michael Jaemin Kim, Jaehyun Park, Chihun Song, Nam Sung Kim, Jung Ho Ahn
+  - Hwayong Nam, **Seungmin Baek**, Minbok Wi, Michael Jaemin Kim, Jaehyun Park, Chihun Song, Nam Sung Kim, Jung Ho Ahn
 
 ---
 
@@ -61,6 +61,4 @@ September 2021 - June 2022
 - **2022 June**: LG Electronics Paper Award, Summer Annual Conference of IEIE 2022, Korea
 
 ---
-
-Contact me at [qortmdalss@snu.ac.kr](mailto:qortmdalss@snu.ac.kr).
 
