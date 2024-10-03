@@ -8,7 +8,7 @@ Hi! I am a Ph.D. student at **Seoul National University** since 2023. I am curre
 ---
 
 ## Educations
-- Seoul National University (SNU)
+<u>Seoul National University</u>
 Ph.D. in Electrical Engineering, March 2023 - Present
 
 Advisor: Prof. Jung Ho Ahn
@@ -20,11 +20,11 @@ B.S. in Electrical Engineering, March 2017 - February 2023
 
 ## Publication
 
-### ISCA '51
+### ISCA '24
 - DRAMScope: Uncovering DRAM Microarchitecture and Characteristics by Issuing Memory Commands
 - Hwayong Nam, **Seungmin Baek**, Minbok Wi, Michael Jaemin Kim, Jaehyun Park, Chihun Song, Nam Sung Kim, Jung Ho Ahn
 
-### CAL '23
+### IEEE CAL '23
 - X-ray: Discovering DRAM Internal Structure and Error Characteristics by Issuing Memory Commands
 - Hwayong Nam, **Seungmin Baek**, Minbok Wi, Michael Jaemin Kim, Jaehyun Park, Chihun Song, Nam Sung Kim, Jung Ho Ahn
 
