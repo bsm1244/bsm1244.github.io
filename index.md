@@ -24,18 +24,18 @@ B.S. in Electrical & Electronic Engineering, March 2017 - February 2023
 
 ## Research Experience
 
-**Graduate research assistant** @ Scalable Computer Architecture Laboratory, Seoul National University
+**Graduate research assistant @** Scalable Computer Architecture Laboratory, Seoul National University
 
 March 2023 - Present
 
-**Undergraduate research assistant** @ Scalable Computer Architecture Laboratory, Seoul National University
+**Undergraduate research assistant @** Scalable Computer Architecture Laboratory, Seoul National University
 
 June 2022 - August 2022
 
 - Design RowHammer generator verilog module in DDR3 [SoftMC]
 - Analyze RowHammer error characteristics on HBM2
 
-**Undergraduate research assistant** @ Compiler & Microarchitecture Laboratory, Korea University
+**Undergraduate research assistant @** Compiler & Microarchitecture Laboratory, Korea University
 
 September 2021 - June 2022
 
