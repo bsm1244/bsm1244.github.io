@@ -22,18 +22,19 @@ header {
 }
 
 .social-icons {
-    margin-top: 20px;
+    margin-top: auto;
 }
 
 .social-icons a {
-    color: #333;
-    margin: 0 10px;
-    font-size: 24px;
+    color: black;
+    margin: 0 15px;
+    font-size: 40px;
     text-decoration: none;
+    transition: color 0.3s;
 }
 
 .social-icons a:hover {
-    color: #0077b5; /* LinkedIn color for hover effect */
+    color: gray; /* LinkedIn color for hover effect */
 }
 
 .social-icons a i {
