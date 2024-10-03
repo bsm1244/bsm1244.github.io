@@ -5,6 +5,7 @@ title: Seungmin Baek
 
 Hi! I am a Ph.D. student at **Seoul National University** since 2023. I am currently advised by **Prof. Jung Ho Ahn** and a member of the SCALable Computer Architecture Laboratory ([SCALE Lab]).
 [SCALE Lab]: https://scale.snu.ac.kr/
+
 ---
 
 ## Educations
@@ -17,6 +18,8 @@ Advisor: Prof. Jung Ho Ahn
 ### <u>Korea University</u>
 
 B.S. in Electrical & Electronic Engineering, March 2017 - February 2023
+
+---
 
 ## Research Experience
 
@@ -37,6 +40,8 @@ September 2021 - June 2022
 - PointPillars Model Performance Analysis in Heterogeneous Platforms
 
 [SoftMC]: https://github.com/CMU-SAFARI/SoftMC
+
+---
 
 ## Publication
 
