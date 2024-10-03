@@ -26,18 +26,18 @@ B.S. in Electrical & Electronic Engineering, March 2017 - February 2023
 
 **Graduate research assistant @** Scalable Computer Architecture Laboratory, Seoul National University
 
-March 2023 - Present
+Mar. 2023 - Present
 
 **Undergraduate research assistant @** Scalable Computer Architecture Laboratory, Seoul National University
 
-June 2022 - August 2022
+Jun. 2022 - Aug. 2022
 
 - Designing RowHammer generator verilog module in DDR3 [SoftMC]
 - RowHammer error characteristics analysis on HBM2
 
 **Undergraduate research assistant @** Compiler & Microarchitecture Laboratory, Korea University
 
-September 2021 - June 2022
+Sep. 2021 - Jun. 2022
 
 - PointPillars model performance analysis on TI-SOC and CPU-GPU platforms
 
@@ -65,6 +65,6 @@ September 2021 - June 2022
 ---
 
 ## Recognition
-- September 2023 - February 2024: **\[BK21\] Exellent Research Talent Fellowship**
+- Sep. 2023 - Feb. 2024: **\[BK21\] Exellent Research Talent Fellowship**
 
 ___
