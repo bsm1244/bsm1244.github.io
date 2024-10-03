@@ -32,14 +32,14 @@ March 2023 - Present
 
 June 2022 - August 2022
 
-- Design RowHammer generator verilog module in DDR3 [SoftMC]
-- Analyze RowHammer error characteristics on HBM2
+- Designing RowHammer generator verilog module in DDR3 [SoftMC]
+- RowHammer error characteristics analysis on HBM2
 
 **Undergraduate research assistant @** Compiler & Microarchitecture Laboratory, Korea University
 
 September 2021 - June 2022
 
-- PointPillars Model Performance Analysis in Heterogeneous Platforms
+- PointPillars model performance analysis on TI-SOC and CPU-GPU platforms
 
 [SoftMC]: https://github.com/CMU-SAFARI/SoftMC
 
