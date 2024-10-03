@@ -60,7 +60,11 @@ September 2021 - June 2022
 ---
 
 ## Award
-- 2022 June: **LG Electronics Paper Award, Summer Annual Conference of IEIE 2022**, Korea
+- June 2022: **LG Electronics Paper Award, Summer Annual Conference of IEIE 2022**, Korea
 
 ---
 
+## Recognition
+- September 2023 - February 2024: **\[BK21\] Exellent Research Talent Fellowship**
+
+___
