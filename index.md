@@ -3,21 +3,40 @@ layout: default
 title: Seungmin Baek
 ---
 
-Hi! I am a Ph.D. student at **Seoul National University** since 2023. I am currently advised by **Prof. Jung Ho Ahn** and a member of the SCALable Computer Architecture Laboratory (SCALE).
-
+Hi! I am a Ph.D. student at **Seoul National University** since 2023. I am currently advised by **Prof. Jung Ho Ahn** and a member of the SCALable Computer Architecture Laboratory ([SCALE Lab]).
+[SCALE Lab]: https://scale.snu.ac.kr/
 ---
 
 ## Educations
 ### <u>Seoul National University</u>
 
-Ph.D. in Electrical Engineering, March 2023 - Present
+Ph.D. in Inteligence & Information Convergence, March 2023 - Present
+
 Advisor: Prof. Jung Ho Ahn
 
 ### <u>Korea University</u>
 
-B.S. in Electrical Engineering, March 2017 - February 2023
+B.S. in Electrical & Electronic Engineering, March 2017 - February 2023
 
 ## Research Experience
+
+**Graduate research assistant** @ Scalable Computer Architecture Laboratory, Seoul National University
+
+March 2023 - Present
+
+**Undergraduate research assistant** @ Scalable Computer Architecture Laboratory, Seoul National University
+
+June 2022 - August 2022
+
+- Design RowHammer generator verilog module in DDR3 [SoftMC] & Analyze RowHammer error characteristics on HBM2
+
+**Undergraduate research assistant** @ Compiler & Microarchitecture Laboratory, Korea University
+
+September 2021 - June 2022
+
+- PointPillars Model Performance Analysis in Heterogeneous Platforms
+
+[SoftMC]: https://github.com/CMU-SAFARI/SoftMC
 
 ## Publication
 
