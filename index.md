@@ -14,7 +14,7 @@ Hi! I am a Ph.D. student at **Seoul National University** since 2023. I am curre
 
 Ph.D. in Inteligence & Information Convergence, March 2023 - Present
 
-Advisor: Prof. Jung Ho Ahn
+**Advisor: Prof. Jung Ho Ahn**
 
 ### <u>Korea University</u>
 
@@ -49,11 +49,11 @@ September 2021 - June 2022
 
 ### ISCA '24
 - DRAMScope: Uncovering DRAM Microarchitecture and Characteristics by Issuing Memory Commands
-  - Hwayong Nam, **Seungmin Baek**, Minbok Wi, Michael Jaemin Kim, Jaehyun Park, Chihun Song, Nam Sung Kim, Jung Ho Ahn
+  Hwayong Nam, **Seungmin Baek**, Minbok Wi, Michael Jaemin Kim, Jaehyun Park, Chihun Song, Nam Sung Kim, Jung Ho Ahn
 
 ### IEEE CAL '23
 - X-ray: Discovering DRAM Internal Structure and Error Characteristics by Issuing Memory Commands
-  - Hwayong Nam, **Seungmin Baek**, Minbok Wi, Michael Jaemin Kim, Jaehyun Park, Chihun Song, Nam Sung Kim, Jung Ho Ahn
+  Hwayong Nam, **Seungmin Baek**, Minbok Wi, Michael Jaemin Kim, Jaehyun Park, Chihun Song, Nam Sung Kim, Jung Ho Ahn
 
 ---
 
