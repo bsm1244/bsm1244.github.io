@@ -21,3 +21,23 @@ header {
     object-fit: cover;
 }
 
+.social-icons {
+    margin-top: 20px;
+}
+
+.social-icons a {
+    color: #333;
+    margin: 0 10px;
+    font-size: 24px;
+    text-decoration: none;
+}
+
+.social-icons a:hover {
+    color: #0077b5; /* LinkedIn color for hover effect */
+}
+
+.social-icons a i {
+    vertical-align: middle;
+}
+
+

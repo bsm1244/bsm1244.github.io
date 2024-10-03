@@ -32,7 +32,8 @@ March 2023 - Present
 
 June 2022 - August 2022
 
-- Design RowHammer generator verilog module in DDR3 [SoftMC] & Analyze RowHammer error characteristics on HBM2
+- Design RowHammer generator verilog module in DDR3 [SoftMC]
+- Analyze RowHammer error characteristics on HBM2
 
 **Undergraduate research assistant** @ Compiler & Microarchitecture Laboratory, Korea University
 
@@ -53,6 +54,8 @@ September 2021 - June 2022
 ### IEEE CAL '23
 - X-ray: Discovering DRAM Internal Structure and Error Characteristics by Issuing Memory Commands
 - Hwayong Nam, **Seungmin Baek**, Minbok Wi, Michael Jaemin Kim, Jaehyun Park, Chihun Song, Nam Sung Kim, Jung Ho Ahn
+
+---
 
 ## Award
 - **2022 June**: LG Electronics Paper Award, Summer Annual Conference of IEIE 2022, Korea
