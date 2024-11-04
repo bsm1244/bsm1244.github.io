@@ -61,6 +61,7 @@ Sep. 2021 - Jun. 2022
 - \"Marionette: RowHammer Attack via Row Coupling\"
   
   **Seungmin Baek**, Minbok Wi, Seonyong Park, Hwayong Nam, Michael Jaemin Kim, Nam Sung Kim, Jung Ho Ahn
+
 ---
 
 ## Award
