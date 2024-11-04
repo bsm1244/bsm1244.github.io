@@ -57,6 +57,10 @@ Sep. 2021 - Jun. 2022
   
   Hwayong Nam, **Seungmin Baek**, Minbok Wi, Michael Jaemin Kim, Jaehyun Park, Chihun Song, Nam Sung Kim, Jung Ho Ahn
 
+### ASPLOS '25
+- \"Marionette: RowHammer Attack via Row Coupling\"
+  
+  **Seungmin Baek**, Minbok Wi, Seonyong Park, Hwayong Nam, Michael Jaemin Kim, Nam Sung Kim, Jung Ho Ahn
 ---
 
 ## Award
