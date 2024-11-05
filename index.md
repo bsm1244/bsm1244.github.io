@@ -48,17 +48,17 @@ Sep. 2021 - Jun. 2022
 ### IEEE CAL '23
 - \"X-ray: Discovering DRAM Internal Structure and Error Characteristics by Issuing Memory Commands\"
   
-  Hwayong Nam, **Seungmin Baek**, Minbok Wi, Michael Jaemin Kim, Jaehyun Park, Chihun Song, Nam Sung Kim, Jung Ho Ahn
+  Hwayong Nam, **Seungmin Baek**, Minbok Wi, Michael Jaemin Kim, Jaehyun Park, Chihun Song, Nam Sung Kim, and Jung Ho Ahn
 
 ### ISCA '24
 - \"DRAMScope: Uncovering DRAM Microarchitecture and Characteristics by Issuing Memory Commands\"
   
-  Hwayong Nam, **Seungmin Baek**, Minbok Wi, Michael Jaemin Kim, Jaehyun Park, Chihun Song, Nam Sung Kim, Jung Ho Ahn
+  Hwayong Nam, **Seungmin Baek**, Minbok Wi, Michael Jaemin Kim, Jaehyun Park, Chihun Song, Nam Sung Kim, and Jung Ho Ahn
 
 ### ASPLOS '25
 - \"Marionette: RowHammer Attack via Row Coupling\"
   
-  **Seungmin Baek**, Minbok Wi, Seonyong Park, Hwayong Nam, Michael Jaemin Kim, Nam Sung Kim, Jung Ho Ahn
+  **Seungmin Baek**, Minbok Wi, Seonyong Park, Hwayong Nam, Michael Jaemin Kim, Nam Sung Kim, and Jung Ho Ahn
 
 ---
 
