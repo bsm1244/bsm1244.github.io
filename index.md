@@ -9,7 +9,7 @@ Hi! I am a Ph.D. student at **Seoul National University** since 2023. I am curre
 
 ---
 
-## Educations
+## Education
 ### <u>Seoul National University</u>
 
 Ph.D. in Inteligence & Information Convergence, March 2023 - Present
