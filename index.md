@@ -39,8 +39,8 @@ Jun. 2022 - Aug. 2022
 
 Sep. 2021 - Jun. 2022
 
-- PointPillars model performance analysis on TI-SOC and CPU-GPU platforms (Korean)
-  [Link]
+- PointPillars model performance analysis on TI-SOC and CPU-GPU platforms (Korean) [Link]
+
   [Link]: https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11132910&googleIPSandBox=false&mark=0&minRead=5&ipRange=false&b2cLoginYN=false&icstClss=010000&isPDFSizeAllowed=true&accessgl=Y&language=ko_KR&hasTopBanner=true
 
 ---
