@@ -47,6 +47,11 @@ Sep. 2021 - Jun. 2022
 
 ## Publication
 
+### DRAMSec '25
+- \"Sudoku: Decomposing DRAM Address Mapping into Component Functions\"
+  
+  Minbok Wi, **Seungmin Baek**, Seonyong Park, Mattan Erez, and Jung Ho Ahn
+
 ### ASPLOS '25
 - \"Marionette: RowHammer Attack via Row Coupling\"
   
