@@ -47,6 +47,11 @@ Sep. 2021 - Jun. 2022
 
 ## Publication
 
+### IEEE CAL '25
+- \"Per-Row Activation Counting on Real Hardware: Demystifying Performance Overheads\"
+
+  Jumin Kim, **Seungmin Baek**, Minbok Wi, Hwayong Nam, Michael Jaemin Kim, Sukhan Lee, Kyomin Sohn, Jung Ho Ahn
+
 ### DRAMSec '25
 - \"Sudoku: Decomposing DRAM Address Mapping into Component Functions\"
   
