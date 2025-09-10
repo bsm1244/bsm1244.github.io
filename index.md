@@ -49,6 +49,11 @@ Sep. 2021 - Jun. 2022
 
 ## Publication
 
+### arXiv '25
+- \"The New LLM Bottleneck: A Systems Perspective on Latent Attention and Mixture-of-Experts\"
+
+  Sungmin Yun, Seonyong Park, Hwayong Nam, Younjoo Lee, Gunjun Lee, Kwanhee Kyung, Sangpyo Kim, Nam Sung Kim, Jongmin Kim, Hyungyo Kim, Juhwan Cho, **Seungmin Baek**, Jung Ho Ahn.
+
 ### IEEE CAL '25
 - \"Per-Row Activation Counting on Real Hardware: Demystifying Performance Overheads\"
 
