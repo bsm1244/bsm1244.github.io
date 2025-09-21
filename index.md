@@ -49,6 +49,11 @@ Sep. 2021 - Jun. 2022
 
 ## Publication
 
+### IEEE S&P '26
+- \"SoK: Systematizing a Decade of Architectural RowHammer Defenses Through the Lens of Streaming Algorithms\"
+
+    Michael Jaemin Kim, **Seungmin Baek**, Jumin Kim, Hwayong Nam, Nam Sung Kim, Jung Ho Ahn.
+
 ### arXiv '25
 - \"The New LLM Bottleneck: A Systems Perspective on Latent Attention and Mixture-of-Experts\"
 
