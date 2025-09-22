@@ -7,9 +7,10 @@ Hi! I am a Ph.D. candidate at **Seoul National University** since 2023. I am cur
 
 My research primarily centers on DRAM microarchitecture, including efforts to reverse-engineer internal structures and operations. I also work on reliability, such as analyzing DRAM error characteristics, and security, with a particular focus on RowHammer attacks. In addition, I am interested in improving memory system performance. More recently, my work has focused on optimizing memory systems for large language model (LLM) workloads.
 
-For more details, please refer to my [CV](/home/bsm/work/homepage/bsm1244.github.io/CV.pdf).
+For more details, please refer to my [CV].
 
 [SCALE Lab]: https://scale.snu.ac.kr/
+[CV]: https://drive.google.com/file/d/17ULd6EiKvWhN5cQ84h6UMRpN_1RkR_Ux/view?usp=drive_link
 
 ---
 
