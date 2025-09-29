@@ -9,7 +9,7 @@ Overall my research primarily focuses on memory system reliability, security, an
 
 My research on DRAM microarchitecture includes efforts to reverse-engineer internal structures and operations. I also work on reliability, such as analyzing DRAM error characteristics, and security, with a particular focus on RowHammer attacks.
 
-I have hands-on experience with CPU, GPU, and memory system simulators, including gem5, Accel-Sim, and Ramulator. I have experience modifying the Linux kernel, specifically working with Error Detection and Correction (EDAC) kernel modules. I am also familiar with Hardware Description Languages (HDL) like Verilog and have utilized Vivado, Xcelium RTL simulator and Design Compiler for area and power evaluation.
+I have hands-on experience with CPU, GPU, and memory system simulators, including gem5, Accel-Sim, and Ramulator. I have experience modifying the Linux kernel, specifically working with Error Detection and Correction (EDAC) kernel modules. I am also familiar with Hardware Description Languages (HDL) like Verilog and have utilized Vivado, Xcelium RTL simulator, and Design Compiler for area and power evaluation.
 
 For more details, please refer to my [CV].
 
