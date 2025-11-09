@@ -56,6 +56,11 @@ Sep. 2021 - Jun. 2022
 
 ## Publication
 
+### IEEE HPCA '26
+- \"RoMe: Row Granularity Access Memory System for Large Language Models\"
+
+    Hwayong Nam\textsuperscript{\(\ddagger\)}, **Seungmin Baek**, Jumin Kim, Michael Jaemin Kim, Jung Ho Ahn.
+
 ### IEEE S&P '26
 - \"SoK: Systematizing a Decade of Architectural RowHammer Defenses Through the Lens of Streaming Algorithms\"
 
