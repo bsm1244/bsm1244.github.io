@@ -61,8 +61,6 @@ Sep. 2021 - Jun. 2022
 
     Hwayong Nam<sup>*</sup>, **Seungmin Baek**<sup>*</sup>, Jumin Kim, Michael Jaemin Kim, Jung Ho Ahn.
 
-  \* **Co-First Authors:**
-
 ### IEEE S&P '26
 - \"SoK: Systematizing a Decade of Architectural RowHammer Defenses Through the Lens of Streaming Algorithms\"
 
