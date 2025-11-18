@@ -5,7 +5,7 @@ title: Seungmin Baek
 
 Hi! I am a Ph.D. candidate at **Seoul National University** since 2023. I am currently advised by **Prof. Jung Ho Ahn** and a member of the SCALable Computer Architecture Laboratory ([SCALE Lab]).
 
-Overall my research primarily focuses on memory system reliability, security, and performance. My recent work involves optimizing a memory system, including memory controller and HBM, for LLM. I've also worked on analyzing the DeepSeek LLM to propose future architectural directions.
+Overall my research primarily focuses on memory system reliability, security, and performance. My recent work involves optimizing a memory system, including memory controller and HBM, for LLMs. I've also worked on analyzing the DeepSeek LLM to propose future architectural directions.
 
 My research on DRAM microarchitecture includes efforts to reverse-engineer internal structures and operations. I also work on reliability, such as analyzing DRAM error characteristics, and security, with a particular focus on RowHammer attacks.
 
