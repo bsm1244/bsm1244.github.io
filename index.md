@@ -60,7 +60,7 @@ Sep. 2021 - Jun. 2022
 - \"RoMe: Row Granularity Access Memory System for Large Language Models\"
 
     Hwayong Nam<sup>*</sup>, **Seungmin Baek**<sup>*</sup>, Jumin Kim, Michael Jaemin Kim, Jung Ho Ahn.
-    > Hwayong Nam and Seungmin Baek are co-first authors of this work<sup>*</sup>.
+    - Hwayong Nam and Seungmin Baek are co-first authors of this work<sup>*</sup>.
 
 ### IEEE S&P '26
 - \"SoK: Systematizing a Decade of Architectural RowHammer Defenses Through the Lens of Streaming Algorithms\"
