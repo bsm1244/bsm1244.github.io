@@ -83,7 +83,7 @@ Sep. 2021 - Jun. 2022
   Minbok Wi, **Seungmin Baek**, Seonyong Park, Mattan Erez, and Jung Ho Ahn
 
 ### ASPLOS '25
-- \"Marionette: RowHammer Attack via Row Coupling\"
+- \"Marionette: A RowHammer Attack via Row Coupling\"
   
   **Seungmin Baek**, Minbok Wi, Seonyong Park, Hwayong Nam, Michael Jaemin Kim, Nam Sung Kim, and Jung Ho Ahn
 
