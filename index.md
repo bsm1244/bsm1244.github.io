@@ -101,7 +101,7 @@ Sep. 2021 - Jun. 2022
 
 ## Award
 - Jun. 2022: **LG Electronics Paper Award, Summer Annual Conference of IEIE 2022**, Korea.
-- Feb. 2026: **Best of CAL, HPCA 2026**, Australia.
+- Feb. 2026: **Best of CAL Award, HPCA 2026**, Australia.
 
 ---
 
