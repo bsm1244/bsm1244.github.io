@@ -72,7 +72,7 @@ Sep. 2021 - Jun. 2022
 
   Sungmin Yun, Seonyong Park, Hwayong Nam, Younjoo Lee, Gunjun Lee, Kwanhee Kyung, Sangpyo Kim, Nam Sung Kim, Jongmin Kim, Hyungyo Kim, Juhwan Cho, **Seungmin Baek**, Jung Ho Ahn.
 
-### IEEE CAL '25
+### IEEE CAL '25 [Best of CAL]
 - \"Per-Row Activation Counting on Real Hardware: Demystifying Performance Overheads\"
 
   Jumin Kim, **Seungmin Baek**, Minbok Wi, Hwayong Nam, Michael Jaemin Kim, Sukhan Lee, Kyomin Sohn, Jung Ho Ahn
