@@ -56,6 +56,12 @@ Sep. 2021 - Jun. 2022
 
 ## Publication
 
+### IEEE Access '26
+- \"Sudoku: Refining DRAM Address Mapping through Advanced Timing and Configuration Analysis\"
+
+    Minbok Wi<sup>*</sup>, Wanju Doh<sup>*</sup>, **Seungmin Baek**, Seonyong Park, Mattan Erez, Jung Ho Ahn.
+    - Minbok Wi and Wanju Doh are co-first authors of this work<sup>*</sup>.
+
 ### HPCA '26
 - \"RoMe: Row Granularity Access Memory System for Large Language Models\"
 
