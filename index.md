@@ -5,12 +5,6 @@ title: Seungmin Baek
 
 Hi! I am a Ph.D. candidate at **Seoul National University** since 2023. I am currently advised by **Prof. Jung Ho Ahn** and a member of the SCALable Computer Architecture Laboratory ([SCALE Lab]). Overall my research primarily focuses on memory system performance, reliability, and security. For more details, please refer to my [CV]
 
-#My research on DRAM microarchitecture includes efforts to reverse-engineer internal structures and operations. I also work on reliability, such as analyzing DRAM error characteristics, and security, with a particular focus on RowHammer attacks.
-
-#I have hands-on experience with CPU, GPU, and memory system simulators, including gem5, Accel-Sim, and Ramulator. I have experience modifying the Linux kernel, specifically working with Error Detection and Correction (EDAC) kernel modules. I am also familiar with Hardware Description Languages (HDL) like Verilog and have utilized Vivado, Xcelium RTL simulator, and Design Compiler.
-
-#For more details, please refer to my [CV].
-
 [SCALE Lab]: https://scale.snu.ac.kr/
 [CV]: https://drive.google.com/file/d/17ULd6EiKvWhN5cQ84h6UMRpN_1RkR_Ux/view?usp=drive_link
 
