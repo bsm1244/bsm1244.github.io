@@ -161,7 +161,7 @@ Ph.D. in Intelligence & Information Convergence | *Advisor: Prof. Jung Ho Ahn*
 </div>
 B.S. in Electrical & Electronic Engineering
 
-## Research Experience
+<!-- ## Research Experience
 
 <div class="item-row">
   <strong>Graduate Research Assistant</strong>
@@ -183,7 +183,7 @@ B.S. in Electrical & Electronic Engineering
 </div>
 *Compiler & Microarchitecture Lab, Korea University*
 * PointPillars model performance analysis on TI-SOC and CPU-GPU platforms (Korean) 
-<a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11132910" class="pub-link">📄 DBpia Link</a>
+<a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11132910" class="pub-link">📄 DBpia Link</a> -->
 
 ## Publication
 
