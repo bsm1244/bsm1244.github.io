@@ -163,17 +163,21 @@ title: Seungmin Baek
 
 ## Education
 
-<div class="item-row">
-  <h3>Seoul National University</h3>
-  <span class="item-date">Mar. 2023 – Present</span>
+<div class="item-item">
+  <div class="item-row">
+    <h3>Seoul National University</h3>
+    <span class="item-date">Mar. 2023 – Present</span>
+  </div>
+  <div class="item-desc-compact">Ph.D. in Intelligence & Information Convergence | <em>Advisor: Prof. Jung Ho Ahn</em></div>
 </div>
-Ph.D. in Intelligence & Information Convergence | *Advisor: Prof. Jung Ho Ahn*
 
-<div class="item-row">
-  <h3>Korea University</h3>
-  <span class="item-date">Mar. 2017 – Feb. 2023</span>
+<div class="item-item">
+  <div class="item-row">
+    <h3>Korea University</h3>
+    <span class="item-date">Mar. 2017 – Feb. 2023</span>
+  </div>
+  <div class="item-desc-compact">B.S. in Electrical & Electronic Engineering</div>
 </div>
-B.S. in Electrical & Electronic Engineering
 
 <!-- ## Research Experience
 
