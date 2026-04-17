@@ -4,13 +4,14 @@ title: Seungmin Baek
 ---
 
 <style>
+  /* 텍스트 내 연구실 링크 스타일 */
   .custom-link {
     text-decoration: none;
     color: #003087; /* SNU Blue */
     font-weight: 600;
-    border-bottom: 1px solid rgba(0, 48, 135, 0.2);
+    border-bottom: 1px solid rgba(0, 48, 135, 0.3);
     padding-bottom: 1px;
-    transition: all 0.3s ease;
+    transition: all 0.2s ease-in-out;
   }
   .custom-link:hover {
     color: #0056b3;
@@ -18,43 +19,56 @@ title: Seungmin Baek
     background-color: rgba(0, 86, 179, 0.05);
   }
 
+  /* CV 버튼 스타일 */
+  .cv-wrapper {
+    margin-top: 25px;
+  }
   .btn-cv {
-    display: inline-block;
-    margin-top: 10px;
-    padding: 8px 20px;
-    background-color: #222;
-    color: #fff !important;
+    display: inline-flex;
+    align-items: center;
+    padding: 10px 22px;
+    background-color: #1a1a1a;
+    color: #ffffff !important;
     text-decoration: none !important;
-    border-radius: 30px;
-    font-size: 0.9rem;
+    border-radius: 8px;
+    font-size: 0.95rem;
     font-weight: 500;
     transition: all 0.3s ease;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
   }
-    .btn-cv:hover {
-    background-color: #444;
+  .btn-cv:hover {
+    background-color: #404040;
     transform: translateY(-2px);
-    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+  }
+  .btn-cv svg {
+    margin-right: 8px;
   }
 
-  .profile-section {
-    line-height: 1.8;
-    margin-bottom: 2rem;
+  /* 본문 줄간격 및 폰트 최적화 */
+  .intro-text {
+    line-height: 1.75;
+    font-size: 1.1rem;
+    color: #333;
   }
 </style>
 
-<div class="profile-section">
-  <h1>Your Name</h1>
-    <p>
-      Hi! I am a Ph.D. candidate at **Seoul National University** since 2023. I am currently advised by **Prof. Jung Ho Ahn** and a member of <a href="https://scale.snu.ac.kr/" class="custom-link">SCALE Lab</a> ↗ at Seoul National University. Overall my research primarily focuses on memory system performance, reliability, and security. For more details, pleas see my CV.
-    </p>
-
-  <a href="/CV.pdf" class="btn-cv">View My CV →</a>
+<div class="intro-text">
+  Hi! I am a Ph.D. candidate at <strong>Seoul National University</strong> since 2023. 
+  I am currently advised by <strong>Prof. Jung Ho Ahn</strong> and a proud member of 
+  <a href="https://scale.snu.ac.kr/" class="custom-link">SCALE Lab</a> ↗. 
+  <br><br>
+  Overall, my research primarily focuses on <strong>memory system performance, reliability, and security</strong>.
 </div>
 
-  ([SCALE Lab]). 
-
-[SCALE Lab]: https://scale.snu.ac.kr/
+<div class="cv-wrapper">
+  <a href="/CV.pdf" class="btn-cv">
+    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+      <path d="M14 14V4.5L9.5 0H4a2 2 0 0 0-2 2v12 a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2zM9.5 3A1.5 1.5 0 0 0 11 4.5h2V14a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1h5.5v2z"/>
+    </svg>
+    View Full CV
+  </a>
+</div>
 
 ---
 
