@@ -188,6 +188,10 @@ title: Seungmin Baek
 
 ## Publication
 
+<div class="pub-legend">
+  * denotes equal contribution / Co-first authorship
+</div>
+
 <div class="pub-item">
   <span class="pub-venue">IEEE Access '26</span>
   <span class="pub-title">"Sudoku: Refining DRAM Address Mapping through Advanced Timing and Configuration Analysis"</span>
@@ -230,11 +234,6 @@ title: Seungmin Baek
   <div class="pub-authors">Hwayong Nam, <span class="me">Seungmin Baek</span>, Minbok Wi, Michael Jaemin Kim, Jaehyun Park, Chihun Song, Nam Sung Kim, Jung Ho Ahn.</div>
 </div>
 
-<div style="margin-top: -10px; margin-bottom: 20px;">
-  <small style="color: #666; font-style: italic;">
-    * denotes equal contribution / Co-first authorship
-  </small>
-</div>
 
 
 ## Education
