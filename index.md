@@ -110,7 +110,7 @@ title: Seungmin Baek
     color: var(--accent-orange);
     /* color: #003087; */
     font-weight: 700;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     font-size: 0.85rem;
     letter-spacing: 0.5px;
   }
