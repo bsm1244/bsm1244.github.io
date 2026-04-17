@@ -161,24 +161,6 @@ title: Seungmin Baek
   </a>
 </div>
 
-## Education
-
-<div class="item-item">
-  <div class="item-row">
-    <h3>Seoul National University</h3>
-    <span class="item-date">Mar. 2023 – Present</span>
-  </div>
-  <div class="item-desc-compact">Ph.D. in Intelligence & Information Convergence | <em>Advisor: Prof. Jung Ho Ahn</em></div>
-</div>
-
-<div class="item-item">
-  <div class="item-row">
-    <h3>Korea University</h3>
-    <span class="item-date">Mar. 2017 – Feb. 2023</span>
-  </div>
-  <div class="item-desc-compact">B.S. in Electrical & Electronic Engineering</div>
-</div>
-
 <!-- ## Research Experience
 
 <div class="item-row">
@@ -245,6 +227,25 @@ title: Seungmin Baek
   <span class="pub-venue">ISCA '24</span>
   <span class="pub-title">"DRAMScope: Uncovering DRAM Microarchitecture and Characteristics by Issuing Memory Commands"</span>
   <div class="pub-authors">Hwayong Nam, <span class="me">Seungmin Baek</span>, Minbok Wi, Michael Jaemin Kim, Jaehyun Park, Chihun Song, Nam Sung Kim, Jung Ho Ahn.</div>
+</div>
+
+
+## Education
+
+<div class="item-item">
+  <div class="item-row">
+    <h3>Seoul National University</h3>
+    <span class="item-date">Mar. 2023 – Present</span>
+  </div>
+  <div class="item-desc-compact">Ph.D. in Intelligence & Information Convergence | <em>Advisor: Prof. Jung Ho Ahn</em></div>
+</div>
+
+<div class="item-item">
+  <div class="item-row">
+    <h3>Korea University</h3>
+    <span class="item-date">Mar. 2017 – Feb. 2023</span>
+  </div>
+  <div class="item-desc-compact">B.S. in Electrical & Electronic Engineering</div>
 </div>
 
 
