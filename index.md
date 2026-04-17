@@ -230,6 +230,12 @@ title: Seungmin Baek
   <div class="pub-authors">Hwayong Nam, <span class="me">Seungmin Baek</span>, Minbok Wi, Michael Jaemin Kim, Jaehyun Park, Chihun Song, Nam Sung Kim, Jung Ho Ahn.</div>
 </div>
 
+<div style="margin-top: -10px; margin-bottom: 20px;">
+  <small style="color: #666; font-style: italic;">
+    * denotes equal contribution / Co-first authorship
+  </small>
+</div>
+
 
 ## Education
 
