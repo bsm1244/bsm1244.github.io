@@ -12,11 +12,24 @@ title: Seungmin Baek
     --text-light: #666;
   }
 
+  .intro-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end; /* 텍스트 하단과 버튼 정렬 */
+    gap: 20px;
+    margin-bottom: 1.5rem; /* 아래 섹션과의 간격 */
+  }
+
   .intro-text {
-    line-height: 1.8;
-    font-size: 1.1rem;
-    color: var(--text-main);
-    margin-bottom: 2rem;
+    line-height: 1.6; /* 줄 간격을 조금 더 타이트하게 */
+    font-size: 1.05rem;
+    color: #333;
+    margin-bottom: 0; /* 하단 마진 제거 */
+    flex: 1;
+  }
+
+  .cv-wrapper {
+    margin-top: 0; /* 위쪽 여백 제거 */
   }
 
   /* 2. Link & Button Style */
@@ -36,13 +49,14 @@ title: Seungmin Baek
   .btn-cv {
     display: inline-flex;
     align-items: center;
-    padding: 10px 24px;
+    padding: 8px 16px; /* 패딩을 줄여 더 콤팩트하게 */
     background-color: #1a1a1a;
     color: #fff !important;
     text-decoration: none !important;
     border-radius: 6px;
-    font-weight: 500;
-    transition: transform 0.2s, background-color 0.2s;
+    font-size: 0.9rem;
+    transition: 0.2s;
+    white-space: nowrap; /* 버튼 글자 줄바꿈 방지 */
   }
   .btn-cv:hover {
     background-color: #444;
@@ -127,8 +141,10 @@ title: Seungmin Baek
   li { margin-bottom: 0.4rem; color: var(--text-main); }
 
   @media (max-width: 600px) {
-    .item-row { flex-direction: column; }
-    .item-date { margin-left: 0; margin-top: 2px; }
+    .intro-container {
+      flex-direction: column;
+      align-items: flex-start;
+    }
   }
 </style>
 
