@@ -3,6 +3,58 @@ layout: default
 title: Seungmin Baek
 ---
 
+<style>
+  .custom-link {
+    text-decoration: none;
+    color: #003087; /* SNU Blue */
+    font-weight: 600;
+    border-bottom: 1px solid rgba(0, 48, 135, 0.2);
+    padding-bottom: 1px;
+    transition: all 0.3s ease;
+  }
+  .custom-link:hover {
+    color: #0056b3;
+    border-bottom: 2px solid #0056b3;
+    background-color: rgba(0, 86, 179, 0.05);
+  }
+
+  .btn-cv {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 8px 20px;
+    background-color: #222;
+    color: #fff !important;
+    text-decoration: none !important;
+    border-radius: 30px;
+    font-size: 0.9rem;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  }
+    .btn-cv:hover {
+    background-color: #444;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+  }
+
+  .profile-section {
+    line-height: 1.8;
+    margin-bottom: 2rem;
+  }
+</style>
+
+<div class="profile-section">
+  <h1>Your Name</h1>
+    <p>
+      Hi! I am a researcher interested in Computer Architecture and Semiconductor Technology. <br>
+      Currently, I am a member of 
+      <a href="https://scale.snu.ac.kr/" class="custom-link">SCALE Lab</a> ↗ 
+      at Seoul National University.
+    </p>
+
+  <a href="/CV.pdf" class="btn-cv">View My CV →</a>
+</div>
+
 Hi! I am a Ph.D. candidate at **Seoul National University** since 2023. I am currently advised by **Prof. Jung Ho Ahn** and a member of the SCALable Computer Architecture Laboratory ([SCALE Lab]). Overall my research primarily focuses on memory system performance, reliability, and security. 
 
 [SCALE Lab]: https://scale.snu.ac.kr/
