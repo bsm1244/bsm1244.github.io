@@ -152,7 +152,7 @@ title: Seungmin Baek
   I am currently advised by <strong>Prof. Jung Ho Ahn</strong> and a member of 
   <a href="https://scale.snu.ac.kr/" class="custom-link">SCALE Lab</a> ↗. Before pursuing Ph.D., I received a B.S. in Electrical and Electronic Engineering from Korea University in 2023. 
   <br><br>
-  My research primarily focuses on <strong>high performance memory system for LLMs and DRAM reliability & security</strong>. For further information, please refer to my CV.
+  My research primarily focuses on <strong>high performance memory system for LLMs</strong> and <strong>DRAM reliability & security</strong>. For further information, please refer to my CV.
 </div>
 
 <div class="cv-wrapper">
