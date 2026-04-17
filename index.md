@@ -29,7 +29,7 @@ title: Seungmin Baek
   }
 
   .cv-wrapper {
-    margin-top: 0; /* 위쪽 여백 제거 */
+    margin-top: 20px; /* 위쪽 여백 제거 */
   }
 
   /* 2. Link & Button Style */
