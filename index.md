@@ -188,10 +188,6 @@ title: Seungmin Baek
 
 ## Publication
 
-<div class="pub-legend">
-  * denotes equal contribution / Co-first authorship
-</div>
-
 <div class="pub-item">
   <span class="pub-venue">IEEE Access '26</span>
   <span class="pub-title">"Sudoku: Refining DRAM Address Mapping through Advanced Timing and Configuration Analysis"</span>
