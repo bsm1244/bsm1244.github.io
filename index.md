@@ -230,7 +230,11 @@ title: Seungmin Baek
   <div class="pub-authors">Hwayong Nam, <span class="me">Seungmin Baek</span>, Minbok Wi, Michael Jaemin Kim, Jaehyun Park, Chihun Song, Nam Sung Kim, Jung Ho Ahn.</div>
 </div>
 
-
+<div class="pub-item">
+  <span class="pub-venue">IEEE CAL '24</span>
+  <span class="pub-title">"X-ray: Discovering DRAM Internal Structure and Error Characteristics by Issuing Memory Commands"</span>
+  <div class="pub-authors">Hwayong Nam, <span class="me">Seungmin Baek</span>, Minbok Wi, Michael Jaemin Kim, Jaehyun Park, Chihun Song, Nam Sung Kim, Jung Ho Ahn.</div>
+</div>
 
 ## Education
 
