@@ -182,7 +182,8 @@ B.S. in Electrical & Electronic Engineering
   <span class="item-date">Sep. 2021 – Jun. 2022</span>
 </div>
 *Compiler & Microarchitecture Lab, Korea University*
-* PointPillars model performance analysis on TI-SOC and CPU-GPU platforms [[Link]](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11132910)
+* PointPillars model performance analysis on TI-SOC and CPU-GPU platforms (Korean) 
+<a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11132910" class="pub-link">📄 DBpia Link</a>
 
 ## Publication
 
@@ -235,9 +236,30 @@ B.S. in Electrical & Electronic Engineering
 
 ## Honors & Awards
 
-* <div class="item-row"><strong>Best of CAL Award</strong>, HPCA 2026, Australia <span class="item-date">Feb. 2026</span></div>
-* <div class="item-row"><strong>[BK21] Excellent Research Talent Fellowship</strong> <span class="item-date">Sep. 2023 – Feb. 2024</span></div>
-* <div class="item-row"><strong>LG Electronics Paper Award</strong>, Summer Annual Conference of IEIE <span class="item-date">Jun. 2022</span></div>
+<div class="item-item">
+  <div class="item-row">
+    <strong>Best of CAL Award</strong>
+    <span class="item-date">Feb. 2026</span>
+  </div>
+  <span class="item-desc">HPCA 2026, Australia</span>
+</div>
+
+<div class="item-item">
+  <div class="item-row">
+    <strong>[BK21] Excellent Research Talent Fellowship</strong>
+    <span class="item-date">Sep. 2023 – Feb. 2024</span>
+  </div>
+  <span class="item-desc">Brain Korea 21</span>
+</div>
+
+<div class="item-item">
+  <div class="item-row">
+    <strong>LG Electronics Paper Award</strong>
+    <span class="item-date">Jun. 2022</span>
+  </div>
+  <span class="item-desc">Summer Annual Conference of IEIE</span>
+</div>
+
 
 ## Skills
 
