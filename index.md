@@ -219,6 +219,12 @@ title: Seungmin Baek
 </div>
 
 <div class="pub-item">
+  <span class="pub-venue">DRAMSec '25</span>
+  <span class="pub-title">"Sudoku: Decomposing DRAM Address Mapping into Component Functions"</span>
+  <div class="pub-authors">Minbok Wi, <span class="me">Seungmin Baek</span>, Seonyong Park, Mattan Erez, Jung Ho Ahn.</div>
+</div>
+
+<div class="pub-item">
   <span class="pub-venue">ASPLOS '25</span>
   <span class="pub-title">"Marionette: A RowHammer Attack via Row Coupling"</span>
   <div class="pub-authors"><span class="me">Seungmin Baek</span>, Minbok Wi, Seonyong Park, Hwayong Nam, Michael Jaemin Kim, Nam Sung Kim, Jung Ho Ahn.</div>
