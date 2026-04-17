@@ -280,10 +280,10 @@ title: Seungmin Baek
 
 <div class="item-item">
   <div class="item-row">
-    <strong>[BK21] Excellent Research Talent Fellowship</strong>
+    <strong>Excellent Research Talent Fellowship</strong>
     <span class="item-date">Sep. 2023 – Feb. 2024</span>
   </div>
-  <span class="item-desc">Brain Korea 21</span>
+  <span class="item-desc">Brain Korea (BK) 21</span>
 </div>
 
 <div class="item-item">
