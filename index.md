@@ -107,7 +107,8 @@ title: Seungmin Baek
     line-height: 1.4;
   }
   .pub-venue {
-    color: var(--accent-orange);
+    /* color: var(--accent-orange); */
+    color: #003087;
     font-weight: 700;
     text-transform: uppercase;
     font-size: 0.85rem;
