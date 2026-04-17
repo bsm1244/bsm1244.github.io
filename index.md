@@ -156,7 +156,7 @@ title: Seungmin Baek
 </div>
 
 <div class="cv-wrapper">
-  <a href="/CV.pdf" class="btn-cv">
+  <a href="https://drive.google.com/file/d/17ULd6EiKvWhN5cQ84h6UMRpN_1RkR_Ux/view?usp=drive_link" class="btn-cv">
     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path d="M14 14V4.5L9.5 0H4a2 2 0 0 0-2 2v12 a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2zM9.5 3A1.5 1.5 0 0 0 11 4.5h2V14a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1h5.5v2z"/></svg>
     View Full CV
   </a>
