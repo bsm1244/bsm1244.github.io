@@ -295,6 +295,16 @@ title: Seungmin Baek
   <span class="item-desc">Summer Annual Conference of IEIE</span>
 </div>
 
+<!-- ## Teaching Assistant
+
+<div class="item-item">
+  <div class="item-row">
+    <strong>II701: Principles and practices of memory-centric computing</strong>
+    <span class="item-date">Spring 2026</span>
+  </div>
+  <div class="item-desc-compact">Seoul National University</div>
+</div> -->
+
 
 ## Skills
 
