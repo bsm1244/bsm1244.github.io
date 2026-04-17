@@ -46,22 +46,15 @@ title: Seungmin Baek
 <div class="profile-section">
   <h1>Your Name</h1>
     <p>
-      Hi! I am a researcher interested in Computer Architecture and Semiconductor Technology. <br>
-      Currently, I am a member of 
-      <a href="https://scale.snu.ac.kr/" class="custom-link">SCALE Lab</a> ↗ 
-      at Seoul National University.
+      Hi! I am a Ph.D. candidate at **Seoul National University** since 2023. I am currently advised by **Prof. Jung Ho Ahn** and a member of <a href="https://scale.snu.ac.kr/" class="custom-link">SCALE Lab</a> ↗ at Seoul National University. Overall my research primarily focuses on memory system performance, reliability, and security. For more details, pleas see my CV.
     </p>
 
   <a href="/CV.pdf" class="btn-cv">View My CV →</a>
 </div>
 
-Hi! I am a Ph.D. candidate at **Seoul National University** since 2023. I am currently advised by **Prof. Jung Ho Ahn** and a member of the SCALable Computer Architecture Laboratory ([SCALE Lab]). Overall my research primarily focuses on memory system performance, reliability, and security. 
+  ([SCALE Lab]). 
 
 [SCALE Lab]: https://scale.snu.ac.kr/
-
-<br>
-
-[**View My CV**](https://drive.google.com/file/d/17ULd6EiKvWhN5cQ84h6UMRpN_1RkR_Ux/view?usp=drive_link)
 
 ---
 
