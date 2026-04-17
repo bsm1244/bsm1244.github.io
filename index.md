@@ -74,9 +74,8 @@ title: Seungmin Baek
     color: #111;
   }
   h3 {
-    margin: 1.5rem 0 0.5rem 0;
-    font-size: 1.25rem;
-    color: var(--snu-blue);
+    margin: 1.2rem 0 0.2rem 0 !important; /* 위 간격은 유지, 아래 간격은 대폭 축소 */
+    font-size: 1.2rem;
   }
 
   /* 4. Content Items (Experience, Publication, etc.) */
@@ -84,21 +83,20 @@ title: Seungmin Baek
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-    margin-bottom: 0.3rem;
-  }
-  .item-date {
-    font-size: 0.95rem;
-    color: var(--text-light);
-    font-style: italic;
-    white-space: nowrap;
-    margin-left: 15px;
+    margin-bottom: 0px; /* 대학 이름과 아래 학위 설명 사이 간격 제거 */
   }
 
-  .pub-item {
-    margin-bottom: 1.5rem;
-    padding-left: 12px;
-    border-left: 3px solid #f0f0f0;
-    transition: border-color 0.3s;
+  .item-date {
+    font-size: 0.95rem;
+    color: #666;
+    font-style: italic;
+  }
+
+  /* 대학 이름 바로 아래 오는 학위 정보 텍스트 간격 */
+  .item-row + p, 
+  .item-row + div {
+    margin-top: 2px; /* 이름과 학위 정보 사이를 아주 가깝게 설정 */
+    margin-bottom: 0.5rem; /* 다음 항목과의 최소 간격 */
   }
   .pub-item:hover { border-left-color: var(--snu-blue); }
   
