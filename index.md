@@ -228,6 +228,11 @@ B.S. in Electrical & Electronic Engineering
   <div class="pub-authors">Hwayong Nam, <span class="me">Seungmin Baek</span>, Minbok Wi, Michael Jaemin Kim, Jaehyun Park, Chihun Song, Nam Sung Kim, Jung Ho Ahn.</div>
 </div>
 
+
+## Academic Service
+
+* **Artifact Evaluation Committee**: HPCA '26
+
 ## Honors & Awards
 
 * <div class="item-row"><strong>Best of CAL Award</strong>, HPCA 2026, Australia <span class="item-date">Feb. 2026</span></div>
