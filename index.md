@@ -189,6 +189,12 @@ title: Seungmin Baek
 ## Publication
 
 <div class="pub-item">
+  <span class="pub-venue">ISCA '26</span>
+  <span class="pub-title">"PVAC: RowHammer Mitigation Architecture Exploiting Per-victim-row Counting"</span>
+  <div class="pub-authors">Jumin Kim*, <span class="me">Seungmin Baek</span>*, Hwayong Nam, Minbok Wi, Nam Sung Kim, Jung Ho Ahn. (*Co-first)</div>
+</div>
+
+<div class="pub-item">
   <span class="pub-venue">IEEE Access '26</span>
   <span class="pub-title">"Sudoku: Refining DRAM Address Mapping through Advanced Timing and Configuration Analysis"</span>
   <div class="pub-authors">Minbok Wi*, Wanju Doh*, <span class="me">Seungmin Baek</span>, Seonyong Park, Mattan Erez, Jung Ho Ahn. (*Co-first)</div>
@@ -271,13 +277,13 @@ title: Seungmin Baek
   <span class="item-desc">IEEE International Symposium on High-Performance Computer Architecture (HPCA)</span>
 </div>
 
-<!-- <div class="item-item">
+<div class="item-item">
   <div class="item-row">
     <strong>Technical Program Committee</strong>
     <span class="item-date">2026</span>
   </div>
   <span class="item-desc">IEEE/ACM International Symposium on Microarchitecture (MICRO)</span>
-</div> -->
+</div>
 
 ## Honors & Awards
 
@@ -305,7 +311,7 @@ title: Seungmin Baek
   <span class="item-desc">Summer Annual Conference of IEIE</span>
 </div>
 
-<!-- ## Teaching Assistant
+## Teaching Assistant
 
 <div class="item-item">
   <div class="item-row">
@@ -313,7 +319,7 @@ title: Seungmin Baek
     <span class="item-date">Spring 2026</span>
   </div>
   <div class="item-desc-compact">Seoul National University</div>
-</div> -->
+</div>
 
 
 ## Skills
