@@ -195,6 +195,12 @@ title: Seungmin Baek
 </div>
 
 <div class="pub-item">
+  <span class="pub-venue">IEEE S&P '26</span>
+  <span class="pub-title">"SoK: Systematizing a Decade of Architectural RowHammer Defenses Through the Lens of Streaming Algorithms"</span>
+  <div class="pub-authors">Michael Jaemin Kim, <span class="me">Seungmin Baek</span>, Jumin Kim, Hwayong Nam, Nam Sung Kim, Jung Ho Ahn.</div>
+</div>
+
+<div class="pub-item">
   <span class="pub-venue">IEEE Access '26</span>
   <span class="pub-title">"Sudoku: Refining DRAM Address Mapping through Advanced Timing and Configuration Analysis"</span>
   <div class="pub-authors">Minbok Wi*, Wanju Doh*, <span class="me">Seungmin Baek</span>, Seonyong Park, Mattan Erez, Jung Ho Ahn. (*Co-first)</div>
@@ -204,12 +210,6 @@ title: Seungmin Baek
   <span class="pub-venue">HPCA '26</span>
   <span class="pub-title">"RoMe: Row Granularity Access Memory System for Large Language Models"</span>
   <div class="pub-authors">Hwayong Nam*, <span class="me">Seungmin Baek</span>*, Jumin Kim, Michael Jaemin Kim, Jung Ho Ahn. (*Co-first)</div>
-</div>
-
-<div class="pub-item">
-  <span class="pub-venue">IEEE S&P '26</span>
-  <span class="pub-title">"SoK: Systematizing a Decade of Architectural RowHammer Defenses Through the Lens of Streaming Algorithms"</span>
-  <div class="pub-authors">Michael Jaemin Kim, <span class="me">Seungmin Baek</span>, Jumin Kim, Hwayong Nam, Nam Sung Kim, Jung Ho Ahn.</div>
 </div>
 
 <div class="pub-item">
