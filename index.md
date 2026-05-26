@@ -315,7 +315,7 @@ title: Seungmin Baek
 
 <div class="item-item">
   <div class="item-row">
-    <strong>"Optimizing HBM-based memory system for Large Language Models"</strong>
+    <strong>"Optimizing HBM-based Memory System for Large Language Models"</strong>
     <span class="item-date">May 2026</span>
   </div>
   <span class="item-desc">Meta Headquarters, Menlo Park, CA, USA</span>
