@@ -271,18 +271,18 @@ title: Seungmin Baek
 
 <div class="item-item">
   <div class="item-row">
-    <strong>Artifact Evaluation Committee</strong>
-    <span class="item-date">2026</span>
-  </div>
-  <span class="item-desc">IEEE International Symposium on High-Performance Computer Architecture (HPCA)</span>
-</div>
-
-<div class="item-item">
-  <div class="item-row">
     <strong>Technical Program Committee</strong>
     <span class="item-date">2026</span>
   </div>
   <span class="item-desc">IEEE/ACM International Symposium on Microarchitecture (MICRO)</span>
+</div>
+
+<div class="item-item">
+  <div class="item-row">
+    <strong>Artifact Evaluation Committee</strong>
+    <span class="item-date">2026</span>
+  </div>
+  <span class="item-desc">IEEE International Symposium on High-Performance Computer Architecture (HPCA)</span>
 </div>
 
 ## Honors & Awards
