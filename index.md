@@ -148,7 +148,7 @@ title: Seungmin Baek
 </style>
 
 <div class="intro-text">
-  Hi! I am a Ph.D. candidate at <strong>Seoul National University</strong> since 2023. 
+  Hi! I am a Ph.D. student at <strong>Seoul National University</strong> since 2023. 
   I am currently advised by <strong>Prof. Jung Ho Ahn</strong> and a member of 
   <a href="https://scale.snu.ac.kr/" class="custom-link">SCALE Lab</a> ↗. Before pursuing Ph.D., I received a B.S. in Electrical and Electronic Engineering from Korea University in 2023. 
   <br><br>
