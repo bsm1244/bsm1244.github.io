@@ -321,6 +321,14 @@ title: Seungmin Baek
   <span class="item-desc">Meta Headquarters, Menlo Park, CA, USA</span>
 </div>
 
+<div class="item-item">
+  <div class="item-row">
+    <strong>"Per-Row Activation Counting"</strong>
+    <span class="item-date">May 2026</span>
+  </div>
+  <span class="item-desc">SK Hynix Headquarters, Icheon, South Korea</span>
+</div>
+
 ## Teaching Assistant
 
 <div class="item-item">
