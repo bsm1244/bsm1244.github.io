@@ -195,13 +195,13 @@ title: Seungmin Baek
 </div>
 
 <div class="pub-item">
-  <span class="pub-venue">IEEE S&P '26</span>
+  <span class="pub-venue">S&P '26</span>
   <span class="pub-title">"SoK: Systematizing a Decade of Architectural RowHammer Defenses Through the Lens of Streaming Algorithms"</span>
   <div class="pub-authors">Michael Jaemin Kim, <span class="me">Seungmin Baek</span>, Jumin Kim, Hwayong Nam, Nam Sung Kim, Jung Ho Ahn.</div>
 </div>
 
 <div class="pub-item">
-  <span class="pub-venue">IEEE Access '26</span>
+  <span class="pub-venue">Access '26</span>
   <span class="pub-title">"Sudoku: Refining DRAM Address Mapping through Advanced Timing and Configuration Analysis"</span>
   <div class="pub-authors">Minbok Wi*, Wanju Doh*, <span class="me">Seungmin Baek</span>, Seonyong Park, Mattan Erez, Jung Ho Ahn. (*Co-first)</div>
 </div>
@@ -219,7 +219,7 @@ title: Seungmin Baek
 </div>
 
 <div class="pub-item">
-  <span class="pub-venue">IEEE CAL '25</span><span class="award-tag">Best of CAL</span>
+  <span class="pub-venue">CAL '25</span><span class="award-tag">Best of CAL</span>
   <span class="pub-title">"Per-Row Activation Counting on Real Hardware: Demystifying Performance Overheads"</span>
   <div class="pub-authors">Jumin Kim, <span class="me">Seungmin Baek</span>, Minbok Wi, Hwayong Nam, Michael Jaemin Kim, Sukhan Lee, Kyomin Sohn, Jung Ho Ahn.</div>
 </div>
@@ -243,7 +243,7 @@ title: Seungmin Baek
 </div>
 
 <div class="pub-item">
-  <span class="pub-venue">IEEE CAL '24</span>
+  <span class="pub-venue">CAL '24</span>
   <span class="pub-title">"X-ray: Discovering DRAM Internal Structure and Error Characteristics by Issuing Memory Commands"</span>
   <div class="pub-authors">Hwayong Nam, <span class="me">Seungmin Baek</span>, Minbok Wi, Michael Jaemin Kim, Jaehyun Park, Chihun Song, Nam Sung Kim, Jung Ho Ahn.</div>
 </div>
@@ -274,7 +274,7 @@ title: Seungmin Baek
     <strong>Technical Program Committee</strong>
     <span class="item-date">2026</span>
   </div>
-  <span class="item-desc">IEEE/ACM International Symposium on Microarchitecture (MICRO)</span>
+  <span class="item-desc">International Symposium on Microarchitecture (MICRO)</span>
 </div>
 
 <div class="item-item">
@@ -282,7 +282,7 @@ title: Seungmin Baek
     <strong>Artifact Evaluation Committee</strong>
     <span class="item-date">2026</span>
   </div>
-  <span class="item-desc">IEEE International Symposium on High-Performance Computer Architecture (HPCA)</span>
+  <span class="item-desc">International Symposium on High-Performance Computer Architecture (HPCA)</span>
 </div>
 
 ## Honors & Awards
