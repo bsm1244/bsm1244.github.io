@@ -289,6 +289,14 @@ title: Seungmin Baek
 
 <div class="item-item">
   <div class="item-row">
+    <strong>Student Travel Grant</strong>
+    <span class="item-date">July. 2026</span>
+  </div>
+  <span class="item-desc">ISCA 2026</span>
+</div>
+
+<div class="item-item">
+  <div class="item-row">
     <strong>Best of CAL Award</strong>
     <span class="item-date">Feb. 2026</span>
   </div>
