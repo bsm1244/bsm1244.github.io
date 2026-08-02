@@ -271,19 +271,19 @@ title: Seungmin Baek
 
 <div class="item-item">
   <div class="item-row">
-    <strong>Technical Program Committee (TPC)</strong>
+    <strong>Program Committee</strong>
   </div>
   <span class="item-desc">
-    MICRO '26, ASPLOS '25, HPCA '24
+    MICRO'26, HPCA'27
   </span>
 </div>
 
 <div class="item-item">
   <div class="item-row">
-    <strong>Artifact Evaluation Committee (AEC)</strong>
+    <strong>Artifact Evaluation Committee</strong>
   </div>
   <span class="item-desc">
-    HPCA '26, ISCA '25, ISCA '24
+    HPCA'26, MICRO'27, ASPLOS'27
   </span>
 </div>
 
