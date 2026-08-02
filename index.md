@@ -294,7 +294,7 @@ title: Seungmin Baek
     <strong>Student Travel Grant</strong>
     <span class="item-date">Jul. 2026</span>
   </div>
-  <span class="item-desc">ISCA '26</span>
+  <span class="pub-venue">ISCA '26</span>
 </div>
 
 <div class="item-item">
@@ -302,7 +302,7 @@ title: Seungmin Baek
     <strong>Best of CAL Award</strong>
     <span class="item-date">Feb. 2026</span>
   </div>
-  <span class="item-desc">HPCA '26</span>
+  <span class="pub-venue">HPCA '26</span>
 </div>
 
 <div class="item-item">
