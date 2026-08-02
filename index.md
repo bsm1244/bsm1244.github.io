@@ -274,7 +274,7 @@ title: Seungmin Baek
     <strong>Program Committee</strong>
   </div>
   <span class="item-desc">
-    MICRO'26, HPCA'27
+    MICRO '26, HPCA '27
   </span>
 </div>
 
@@ -283,7 +283,7 @@ title: Seungmin Baek
     <strong>Artifact Evaluation Committee</strong>
   </div>
   <span class="item-desc">
-    HPCA'26, MICRO'27, ASPLOS'27
+    HPCA '26, MICRO '27, ASPLOS '27
   </span>
 </div>
 
@@ -294,7 +294,7 @@ title: Seungmin Baek
     <strong>Student Travel Grant</strong>
     <span class="item-date">Jul. 2026</span>
   </div>
-  <span class="item-desc">ISCA 2026</span>
+  <span class="item-desc">ISCA '26</span>
 </div>
 
 <div class="item-item">
@@ -302,7 +302,7 @@ title: Seungmin Baek
     <strong>Best of CAL Award</strong>
     <span class="item-date">Feb. 2026</span>
   </div>
-  <span class="item-desc">HPCA 2026, Australia</span>
+  <span class="item-desc">HPCA '26</span>
 </div>
 
 <div class="item-item">
