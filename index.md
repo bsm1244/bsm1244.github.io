@@ -274,7 +274,7 @@ title: Seungmin Baek
     <strong>Program Committee</strong>
   </div>
   <span class="item-desc">
-    MICRO '26, HPCA '27
+    <span class="pub-venue">MICRO '26</span>, <span class="pub-venue">HPCA '27</span>
   </span>
 </div>
 
@@ -283,7 +283,7 @@ title: Seungmin Baek
     <strong>Artifact Evaluation Committee</strong>
   </div>
   <span class="item-desc">
-    HPCA '26, MICRO '27, ASPLOS '27
+    <span class="pub-venue">HPCA '26</span>, <span class="pub-venue">MICRO '26</span>, <span class="pub-venue">ASPLOS '27</span>
   </span>
 </div>
 
