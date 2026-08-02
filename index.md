@@ -271,18 +271,20 @@ title: Seungmin Baek
 
 <div class="item-item">
   <div class="item-row">
-    <strong>Technical Program Committee</strong>
-    <span class="item-date">2026</span>
+    <strong>Technical Program Committee (TPC)</strong>
   </div>
-  <span class="item-desc">International Symposium on Microarchitecture (MICRO)</span>
+  <span class="item-desc">
+    MICRO '26, ASPLOS '25, HPCA '24
+  </span>
 </div>
 
 <div class="item-item">
   <div class="item-row">
-    <strong>Artifact Evaluation Committee</strong>
-    <span class="item-date">2026</span>
+    <strong>Artifact Evaluation Committee (AEC)</strong>
   </div>
-  <span class="item-desc">International Symposium on High-Performance Computer Architecture (HPCA)</span>
+  <span class="item-desc">
+    HPCA '26, ISCA '25, ISCA '24
+  </span>
 </div>
 
 ## Honors & Awards
