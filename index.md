@@ -271,7 +271,7 @@ title: Seungmin Baek
 
 <div class="item-item">
   <div class="item-row">
-    <strong>Program Committee</strong>
+    <strong>Technical Program Committee</strong>
   </div>
   <span class="item-desc">
     <span class="pub-venue">MICRO '26</span>
