@@ -283,7 +283,7 @@ title: Seungmin Baek
     <strong>Artifact Evaluation Committee</strong>
   </div>
   <span class="item-desc">
-    <span class="pub-venue">HPCA '26</span>, <span class="pub-venue">MICRO '26</span>
+    <span class="pub-venue">HPCA '26</span>, <span class="pub-venue">MICRO '26</span>, <span class="pub-venue">ASPLOS '27</span>
   </span>
 </div>
 
