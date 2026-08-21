@@ -280,6 +280,15 @@ title: Seungmin Baek
 
 <div class="item-item">
   <div class="item-row">
+    <strong>Training Review Committee</strong>
+  </div>
+  <span class="item-desc">
+    <span class="pub-venue">HPCA '27</span>
+  </span>
+</div>
+
+<div class="item-item">
+  <div class="item-row">
     <strong>Artifact Evaluation Committee</strong>
   </div>
   <span class="item-desc">
