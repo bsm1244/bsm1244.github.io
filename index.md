@@ -189,6 +189,12 @@ title: Seungmin Baek
 ## Publication
 
 <div class="pub-item">
+  <span class="pub-venue">CAL '26</span>
+  <span class="pub-title">"Address Matters: Modeling Boundaries of Bandwidth–Latency Memory Simulation"</span>
+  <div class="pub-authors"><span class="me">Seungmin Baek</span>, Seungmin Ahn, Jumin Kim, Hwayong Nam, Jung Ho Ahn.</div>
+</div>
+
+<div class="pub-item">
   <span class="pub-venue">ISCA '26</span>
   <span class="pub-title">"PVAC: RowHammer Mitigation Architecture Exploiting Per-victim-row Counting"</span>
   <div class="pub-authors">Jumin Kim*, <span class="me">Seungmin Baek</span>*, Hwayong Nam, Minbok Wi, Nam Sung Kim, Jung Ho Ahn. (*Co-first)</div>
