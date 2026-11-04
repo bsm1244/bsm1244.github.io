@@ -189,6 +189,18 @@ title: Seungmin Baek
 ## Publication
 
 <div class="pub-item">
+  <span class="pub-venue">HPCA '27</span>
+  <span class="pub-title">"VG-HBM: A Variable-Granularity High Bandwidth Memory for Heterogeneous Spatial Locality"</span>
+  <div class="pub-authors"><span class="me">Seungmin Baek</span>, Hwayong Nam, Jumin Kim, Jung Ho Ahn.</div>
+</div>
+
+<div class="pub-item">
+  <span class="pub-venue">CAL '26</span>
+  <span class="pub-title">"From Bank to Command: The Shifting Bottleneck for Random-Access Bandwidth in DDR5"</span>
+  <div class="pub-authors">Seungmin Ahn, Jumin Kim, <span class="me">Seungmin Baek</span>, Hwayong Nam, Moinuddin Qureshi, Jung Ho Ahn.</div>
+</div>
+
+<div class="pub-item">
   <span class="pub-venue">CAL '26</span>
   <span class="pub-title">"Address Matters: Modeling Boundaries of Bandwidth–Latency Memory Simulation"</span>
   <div class="pub-authors"><span class="me">Seungmin Baek</span>, Seungmin Ahn, Jumin Kim, Hwayong Nam, Jung Ho Ahn.</div>
